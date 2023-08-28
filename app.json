@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "challenge-liven",
+    "slug": "challenge-liven",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
